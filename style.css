@@ -1,0 +1,73 @@
+.second-form {
+    background: #28313c;
+    width: 400px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.btn-text {
+    width: 94%;
+    margin: 0 auto;
+}
+
+.sign-btn,
+.log-btn {
+    background: #53ad8a;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 15px;
+    display: inline-block;
+    width: 41%;
+    border-radius: 5px;
+}
+
+.log-btn {
+    background: #475257;
+}
+
+.second-form h1 {
+    color: #ffffff;
+}
+
+.name-input {
+    width: 43%;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: #28313c;
+    padding: 5px 0 5px 10px;
+}
+
+.email-input,
+.pass-input {
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background-color: #28313c;
+    padding: 5px 0 5px 10px;
+}
+
+.submit-btn {
+    background: #53ad8a;
+    border-radius: 5px;
+    border: none;
+    padding: 13px 20px;
+    color: #ffffff;
+    font-weight: 800;
+    width: 92%;
+    font-size: 18px;
+}
+
+/* clint details form */
+
+/* .clint-details {
+    text-align: center;
+} */
+
+.clint-details span {
+    color: red;
+}
+hr{
+    margin: 20px 0;
+}
